@@ -31,8 +31,8 @@
         "document"
       ],
       "readyEvent": null,
-      "delay": 5000,
-      "misMatchThreshold" : 0.1
+      "delay": 1500,
+      "misMatchThreshold" : 10
     },
     {
       "label": "Work",
