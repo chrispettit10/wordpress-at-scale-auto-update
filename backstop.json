@@ -32,7 +32,7 @@
       ],
       "readyEvent": null,
       "delay": 1500,
-      "misMatchThreshold" : 100
+      "misMatchThreshold" : 1.0
     },
     {
       "label": "Work",
